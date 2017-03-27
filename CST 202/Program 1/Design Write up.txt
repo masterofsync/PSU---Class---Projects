@@ -1,0 +1,21 @@
+/*
+	BIKESH MAHARJAN
+	CS 202
+	PROGRAM #1
+	DESIGN WRITE UP
+*/
+
+
+
+The Data Structure was pretty good but the implementation was not up to standard. Linear linked list of BST is a very good data structure for this type of task.It is a very flexible data Structure with recursions which balances the datas in the tree. 
+	As i see the task of the program, I think LLL of BST is a better data structure than others. The data structure i used was very good though the implementation was not that good. I had 2 Classes and 3 subclasses and other functions which carried out their task quite well. The inheritance really helped in reducing member functions and to carry out the task easily and efficiently. Sub classes getting access to member functions of their base class really helped make it more efficient.
+	
+	There are a some structures which is making the program big and hard to understand. I think it is the most inefficient part of the design. Making class as a node should have really helped in efficiency had i not have such difficulty in connecting it to other functions and classes.
+
+	The codes would have really improved would i have more time. The Data Structure would have been better and implementation would have been standard. I should have been able to use class as a node and get the structure more flexible. 
+
+  	The classes had their own responsibilities. Some of it were not that specific but every class had its own purpose. THe subclasses also had their own purpose and carried out their task nicely.The hierarchical relationship really fitted. When  children classes required member function of their parents, it worked really well as i made it inherit public members. As i think of the task of the program, i really think that it would work in larger application.      
+
+	This program is not much oop as i use some structs which is not used much but classes have their own responsibilities and carry out nicely. However single inheritance is used in some classes where one is base and others are sub classes.
+	Had i got more time, i would have reduced the structs and would have connected all the classes so that they have relation to each other but they have their own purpose.
+ 
